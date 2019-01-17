@@ -3,7 +3,7 @@
 # time&date-stamp, packs the picture and sends it to a gmail with the picture attached.
 # Add file to rc.local to make this script run at bootup
 # The Arduino only sends specific messages through, so this program listens to every message.
-#
+# https://github.com/jonimoi/GSM-project-with-NRF24L01-ArduinoNano-RaspberryPi3
 # Made by and last edited: JonMoi, 2019-01-10
 
 import RPi.GPIO as GPIO
