@@ -1,4 +1,4 @@
-# GSM-project-with-NRF24L01-ArduinoNano-RaspberryPi3
+# Send textmessage and receive e-mail with picture, NRF24l01+RPi3+GSM-a7THINKER
 
 ![](GifGSM.gif)
 
